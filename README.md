@@ -9,7 +9,7 @@
         source .venv/bin/activate          
                                
 2. Install dependencies:
-        pip install -r requirements.txt  #install dependencies
+        pip install -r requirements.txt  
       
 3. Run the app:
-        python main.py  #run the main app               
+        python main.py                
